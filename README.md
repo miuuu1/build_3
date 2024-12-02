@@ -2,9 +2,10 @@ Here is the updated Readme.md file with the images centered on GitHub:
 
 <div style="display: flex; justify-content: center; align-items: center;"><h1>Finnovation Flows KNIME Extension</h1></div>
 
-<div style="display: flex; justify-content: center; align-items: center; align: center">
+<p align="center">
   <img src="icons/logo.png" alt="Logo" style="width: 300px;" />
-</div>
+</p>
+
 
 <div style="display: flex; justify-content: center; align-items: center;">This is an Extension that provides advanced AI / LLM and in the future potential other functionality that is not yet available in the KNIME LLM / Gen AI extension.</div>
 
